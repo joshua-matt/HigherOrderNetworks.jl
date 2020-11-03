@@ -5,8 +5,6 @@ This package contains algorithms to generate and analyze higher-order networks m
 ## To install package
 ---
 
-**Waiting for package registration with Julia package manager. Installation through this instruction still unavailable**
-
 ```
 using Pkg
 Pkg.add("HigherOrderNetworks")
